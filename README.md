@@ -4,6 +4,8 @@
 
 This data analysis projects aims to provide insights into the customer churn that is a threat to its business sustainability and growth.By analysing various aspect of the data, i seek to identify trends,pattern and make a data-deriven recommendation and gain a deeper understanding of the company services.
 
+
+
 ### DATA SOURCES
 
 Customer Churn Data: The primary dataset used for this analysis is the "Customer-Churn.csv" containing detailed information about each customer churn.
