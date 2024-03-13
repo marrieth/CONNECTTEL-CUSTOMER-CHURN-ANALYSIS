@@ -6,6 +6,8 @@ This data analysis projects aims to provide insights into the customer churn tha
 
 
 
+![Dashboard 1 (2)](https://github.com/marrieth/CONNECTTEL-CUSTOMER-CHURN-ANALYSIS/assets/138234128/6ccc9376-e2e4-47a5-af76-084fada457e4)
+
 ### DATA SOURCES
 
 Customer Churn Data: The primary dataset used for this analysis is the "Customer-Churn.csv" containing detailed information about each customer churn.
