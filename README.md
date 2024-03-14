@@ -35,13 +35,13 @@ EDA include exploring the customer churn data to answer key questions,such as:
 
 Include some interesting code
 
-~ ~ ~ tableau
+``` tableau
 
 IF Churn = "YES" THEN 1
 ELSE 0
 END
 
-~ ~ ~
+```
 
 ### RESULTS/FINDINGS
 
